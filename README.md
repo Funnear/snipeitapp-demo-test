@@ -4,7 +4,7 @@ This project is created for improving and proving Test Automation skills in Java
 Application under test is [https://demo.snipeitapp.com/](https://demo.snipeitapp.com/). It was seleced by occasion.
 
 ## Disclaimer
-*This project is neither aiming to advertise Snipe It App nor to improve its quality.
+This project is neither aiming to advertise Snipe It App nor to improve its quality.
 
 ## Executing the tests
 To run the sample project, you can either just run the `CucumberTestSuite` test runner class, or run either `mvn verify` or `gradle test` from the command line.
@@ -19,7 +19,7 @@ $ gradle clean test -Pdriver=firefox
 ```
 
 The test results will be recorded in the `target/site/serenity` directory. 
-*Open `index.html` to see the reports.
+Open `index.html` to see the reports.
 
 
 ## References
