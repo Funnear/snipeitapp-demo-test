@@ -18,7 +18,8 @@ Or
 $ gradle clean test -Pdriver=firefox
 ```
 
-The test results will be recorded in the `target/site/serenity` directory.
+The test results will be recorded in the `target/site/serenity` directory. 
+*Open `index.html` to see the reports.
 
 
 ## References
